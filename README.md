@@ -26,15 +26,15 @@ Frontend Development (Optional)
 Security and Privacy
 
 ## System Architecture
-![image](https://github.com/user-attachments/assets/83b774f1-abb9-4897-8953-359be12b863d)
-
+![pro1](https://github.com/user-attachments/assets/7c608ac3-4142-48cc-866a-b495c4121ab5)
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - chatbot
 
-![Screenshot 2024-12-15 151643](https://github.com/user-attachments/assets/1f2414be-46ff-4331-88d9-76ce35c6c3a5)
+![oro 2](https://github.com/user-attachments/assets/138a5fe3-d255-4134-bb47-e9082ce3c3dc)
+
 
 
 ## Results and Impact
