@@ -5,7 +5,7 @@ This project focuses on the development of a Generative AI (GAI) chatbot that le
 Generative AI chatbots are poweredbydeeplearning models, particularly transformer-basedarchitectures like the Generative PretrainedTransformer (GPT). Unlike traditional chatbotsthat rely on predefined responses, GAI chatbotsgenerate responses in real-time basedoncontextand the information at hand. These modelsaretrained on vast datasets containingdiverselinguistic patterns, which allowthemtoproducecontext-aware answers that can handleawiderange of topics and conversational nuances.GPT and other similar models are designedtocapture intricate language patternsandcontextual cues, enabling more coherent andengaging conversations. As a result, GAIchatbots offer a more dynamic, personalizedexperience for users across various domains.
 
 ## Features
-Natural Language Understanding (NLU)
+Natural Language Understanding (NLU) 
 Contextual Awareness
 Dynamic Content Generation
 Personalization
